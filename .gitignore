@@ -1,1 +1,3 @@
 .vscode/settings.json
+Chapter1/terraform/.terraform.lock.hcl
+Chapter1/terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/3.54.0/linux_amd64/terraform-provider-aws_v3.54.0_x5
